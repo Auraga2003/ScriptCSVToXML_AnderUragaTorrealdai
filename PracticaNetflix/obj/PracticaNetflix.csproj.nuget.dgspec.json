@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uraga\\OneDrive\\Escritorio\\practicaNetflix\\PracticaNetflix\\PracticaNetflix.csproj": {}
+    "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\PracticaNetflix\\PracticaNetflix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uraga\\OneDrive\\Escritorio\\practicaNetflix\\PracticaNetflix\\PracticaNetflix.csproj": {
+    "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\PracticaNetflix\\PracticaNetflix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uraga\\OneDrive\\Escritorio\\practicaNetflix\\PracticaNetflix\\PracticaNetflix.csproj",
+        "projectUniqueName": "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\PracticaNetflix\\PracticaNetflix.csproj",
         "projectName": "PracticaNetflix",
-        "projectPath": "C:\\Users\\uraga\\OneDrive\\Escritorio\\practicaNetflix\\PracticaNetflix\\PracticaNetflix.csproj",
+        "projectPath": "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\PracticaNetflix\\PracticaNetflix.csproj",
         "packagesPath": "C:\\Users\\uraga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uraga\\OneDrive\\Escritorio\\practicaNetflix\\PracticaNetflix\\obj\\",
+        "outputPath": "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\PracticaNetflix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uraga\\AppData\\Roaming\\NuGet\\NuGet.Config"
