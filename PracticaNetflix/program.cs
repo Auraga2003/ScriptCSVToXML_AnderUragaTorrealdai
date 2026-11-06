@@ -29,11 +29,11 @@ class Program
             {
                 case 1:
                     Console.Write("Ruta del CSV: ");
-                    rutaCsv = Console.ReadLine() ?? string.Empty;
+                    rutaCsv = Console.ReadLine()  ;
                     break;
                 case 2:
                     Console.Write("Ruta del XML: ");
-                    rutaXml = Console.ReadLine() ?? string.Empty;
+                    rutaXml = Console.ReadLine() ;
                     break;
                 case 3:
                     Convertir(true);
