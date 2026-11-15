@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bXk/g2VMByo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uraga\\OneDrive\\Escritorio\\DAM3\\2ª curso\\acceso a datos\\ficheros\\practica3\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uraga\\.nuget\\packages\\system.diagnostics.eventlog\\11.0.0\\system.diagnostics.eventlog.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
