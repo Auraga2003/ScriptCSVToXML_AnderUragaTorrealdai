@@ -1,0 +1,39 @@
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\bin\Debug\net10.0\NetflixLogs.exe
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\bin\Debug\net10.0\NetflixLogs.deps.json
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\bin\Debug\net10.0\NetflixLogs.runtimeconfig.json
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\bin\Debug\net10.0\NetflixLogs.dll
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\bin\Debug\net10.0\NetflixLogs.pdb
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\bin\Debug\net10.0\System.Diagnostics.EventLog.dll
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Diagnostics.EventLog.dll
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\obj\Debug\net10.0\NetflixLogs.csproj.AssemblyReference.cache
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\obj\Debug\net10.0\NetflixLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\obj\Debug\net10.0\NetflixLogs.AssemblyInfoInputs.cache
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\obj\Debug\net10.0\NetflixLogs.AssemblyInfo.cs
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\obj\Debug\net10.0\NetflixLogs.csproj.CoreCompileInputs.cache
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\obj\Debug\net10.0\NetflixL.1EC6B7C8.Up2Date
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\obj\Debug\net10.0\NetflixLogs.dll
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\obj\Debug\net10.0\refint\NetflixLogs.dll
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\obj\Debug\net10.0\NetflixLogs.pdb
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\obj\Debug\net10.0\NetflixLogs.genruntimeconfig.cache
+C:\Users\uraga\OneDrive\Escritorio\DAM3\2ª curso\acceso a datos\ficheros\practica3\NetflixLogs\obj\Debug\net10.0\ref\NetflixLogs.dll
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\bin\Debug\net10.0\NetflixLogs.exe
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\bin\Debug\net10.0\NetflixLogs.deps.json
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\bin\Debug\net10.0\NetflixLogs.runtimeconfig.json
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\bin\Debug\net10.0\NetflixLogs.dll
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\bin\Debug\net10.0\NetflixLogs.pdb
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\bin\Debug\net10.0\System.Diagnostics.EventLog.dll
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Diagnostics.EventLog.dll
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\obj\Debug\net10.0\NetflixLogs.csproj.AssemblyReference.cache
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\obj\Debug\net10.0\NetflixLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\obj\Debug\net10.0\NetflixLogs.AssemblyInfoInputs.cache
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\obj\Debug\net10.0\NetflixLogs.AssemblyInfo.cs
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\obj\Debug\net10.0\NetflixLogs.csproj.CoreCompileInputs.cache
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\obj\Debug\net10.0\NetflixLogs.sourcelink.json
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\obj\Debug\net10.0\NetflixL.1EC6B7C8.Up2Date
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\obj\Debug\net10.0\NetflixLogs.dll
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\obj\Debug\net10.0\refint\NetflixLogs.dll
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\obj\Debug\net10.0\NetflixLogs.pdb
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\obj\Debug\net10.0\NetflixLogs.genruntimeconfig.cache
+C:\Users\uraga\OneDrive\Documents\GitHub\ScriptCSVToXML_AnderUragaTorrealdai\NetflixLogs\obj\Debug\net10.0\ref\NetflixLogs.dll

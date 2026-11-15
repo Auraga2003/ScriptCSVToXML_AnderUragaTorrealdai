@@ -1,4 +1,5 @@
-﻿using System.Globalization;
+﻿using System.Diagnostics;
+using System.Globalization;
 using System.Text;
 using System.Xml.Linq;
 
@@ -9,10 +10,23 @@ class Program
     static string rutaXml = "NetflixOriginals.xml";
 
     
+
     const int GENERO = 1, PREMIERE = 2, IDIOMA = 5;
+
+    // LOGS: nombre con el que aparecerán en el Visor de eventos de Windows
+    static string fuente = "ExportadorNetflix";
+
+    // LOGS: escribe el log en Windows (y también en consola)
+    static void Log(string mensaje, EventLogEntryType tipo = EventLogEntryType.Information)
+    {
+        EventLog.WriteEntry(fuente, mensaje, tipo);
+        Console.WriteLine("[LOG] " + mensaje);
+    }
 
     static void Main()
     {
+        
+
         int opcion;
         do
         {
@@ -29,11 +43,11 @@ class Program
             {
                 case 1:
                     Console.Write("Ruta del CSV: ");
-                    rutaCsv = Console.ReadLine()  ;
+                    rutaCsv = Console.ReadLine() ?? string.Empty;
                     break;
                 case 2:
                     Console.Write("Ruta del XML: ");
-                    rutaXml = Console.ReadLine() ;
+                    rutaXml = Console.ReadLine() ?? string.Empty;
                     break;
                 case 3:
                     Convertir(true);
@@ -109,8 +123,14 @@ class Program
                 return;
         }
 
+        // LOG DE INICIO: de qué formato a qué formato y los paths
+        string formatos = csvAXml ? "CSV a XML" : "XML a CSV";
+        Log("INICIO de la exportación de " + formatos + ". Fichero origen: " + Path.GetFullPath(origen) +
+            " | Fichero destino: " + Path.GetFullPath(destino));
+
         if (csvAXml)
         {
+
             GuardarXml(peliculas, destino);
         }
         else
@@ -119,6 +139,9 @@ class Program
         }
 
         Console.WriteLine(peliculas.Count + " películas exportadas a " + destino);
+
+        // LOG DE FIN: terminado y path del fichero nuevo
+        Log("FIN de la exportación. " + peliculas.Count + " películas. Fichero nuevo en: " + Path.GetFullPath(destino));
     }
 
      
@@ -205,6 +228,10 @@ class Program
                 new XElement("Runtime", p[3]),
                 new XElement("IMDBScore", p[4]),
                 new XElement("Language", p[5])));
+
+            // LOG POR ELEMENTO: qué datos lleva
+            Log("Película exportada -> Title: " + p[0] + " | Genre: " + p[1] + " | Premiere: " + p[2] +
+                " | Runtime: " + p[3] + " | IMDB Score: " + p[4] + " | Language: " + p[5]);
         }
         new XDocument(new XDeclaration("1.0", "utf-8", null), raiz).Save(ruta);
     }
@@ -231,6 +258,10 @@ class Program
             }
 
             lineas.Add(string.Join(",", campos));
+
+            // LOG POR ELEMENTO: qué datos lleva
+            Log("Película exportada -> Title: " + p[0] + " | Genre: " + p[1] + " | Premiere: " + p[2] +
+                " | Runtime: " + p[3] + " | IMDB Score: " + p[4] + " | Language: " + p[5]);
         }
         File.WriteAllLines(ruta, lineas, Encoding.UTF8);
     }

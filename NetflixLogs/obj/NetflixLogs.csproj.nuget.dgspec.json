@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\PracticaNetflix\\PracticaNetflix.csproj": {}
+    "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\NetflixLogs\\NetflixLogs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\PracticaNetflix\\PracticaNetflix.csproj": {
+    "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\NetflixLogs\\NetflixLogs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\PracticaNetflix\\PracticaNetflix.csproj",
-        "projectName": "PracticaNetflix",
-        "projectPath": "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\PracticaNetflix\\PracticaNetflix.csproj",
+        "projectUniqueName": "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\NetflixLogs\\NetflixLogs.csproj",
+        "projectName": "NetflixLogs",
+        "projectPath": "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\NetflixLogs\\NetflixLogs.csproj",
         "packagesPath": "C:\\Users\\uraga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\PracticaNetflix\\obj\\",
+        "outputPath": "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\NetflixLogs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uraga\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,6 +45,12 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "System.Diagnostics.EventLog": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
