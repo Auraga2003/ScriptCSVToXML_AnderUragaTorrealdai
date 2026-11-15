@@ -76,11 +76,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uraga\\OneDrive\\Escritorio\\DAM3\\2ª curso\\acceso a datos\\ficheros\\practica3\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\uraga\\OneDrive\\Escritorio\\DAM3\\2ª curso\\acceso a datos\\ficheros\\practica3\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\uraga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uraga\\OneDrive\\Escritorio\\DAM3\\2ª curso\\acceso a datos\\ficheros\\practica3\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\uraga\\OneDrive\\Documents\\GitHub\\ScriptCSVToXML_AnderUragaTorrealdai\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\uraga\\AppData\\Roaming\\NuGet\\NuGet.Config"
